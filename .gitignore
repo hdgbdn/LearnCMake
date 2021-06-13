@@ -59,6 +59,7 @@ install_manifest.txt
 
 /**/build
 /**/build.*
+/**/.vs
 
 .tags
 .vscode
